@@ -13,6 +13,7 @@ A simple shell for your interview.
 3. Make sure everything works by doing `flask --app webapp.main --debug run` and going in a browser to the given URL.
    You should see a very boring home page. If you click on "researcher app", you should find a basic working
    Hello World app.
+4. Run the test suite with `pytest` and ensure 3 green, passing results.
 
 For the interview, please use your favorite development tools. If they allow for virtual pairing, please
 set that up, as we can jump in and help. But if not, don't sweat it; you can just share your screen.
